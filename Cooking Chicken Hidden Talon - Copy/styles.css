@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(45, 70, 117);
+    color: black;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-right: 65px;
+    margin-left: 65px; 
+    text-align: center;
+}
+
+.intro{
+  border-style: solid;
+  border: 70px;
+  border-color: papayawhip;
+}
+
+#instruct{
+  margin-top: 45px;
+  margin-bottom: 45px;
+  margin-right: 65px;
+  margin-left: 65px; 
+  text-align: left;
+}
+
+img{
+  float: right;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+div {
+  margin-top: 45px;
+  margin-bottom: 45px;
+  margin-right: 65px;
+  margin-left: 65px; 
+  text-align: left;
+}
+
+h1, h2, h3{
+  color: goldenrod;
+  font-size: 40px;
+  text-align: center;
+  font-family: Georgia;
+}
+
+h4{
+  color: goldenrod;
+  font-size: 40px;
+  text-align: left;
+  font-family: Georgia,
+}
+
+p, ul {
+color: darkseagreen;
+text-align: left;
+font-size: 20px;
+font-family: Georgia;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-right: 30px;
+margin-left: 30px; 
+}
+
+
